@@ -1,6 +1,6 @@
 import React from "react";
 import { data } from "../Mock/ProductData";
-import ProductCard from "./ProductCard";
+import ProductCard from "./Cards/ProductCard";
 
 const FeatureSectionFruits = () => {
   return (

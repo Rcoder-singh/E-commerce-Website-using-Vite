@@ -1,5 +1,5 @@
 import React from "react";
-import CategoryCard from "./CategoryCard";
+import CategoryCard from "./Cards/CategoryCard";
 import { data } from "../Mock/CategoryData";
 
 const Category = () => {
