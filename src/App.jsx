@@ -4,6 +4,7 @@ import Hero from "./Components/Hero";
 import Category from "./Components/Category";
 import FeatureSectionFruits from "./Components/FeatureSectionFruits";
 import FeatureSectionBreakFast from "./Components/FeatureSectionBreakFast";
+import Banner from "./Components/Banner";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Category />
       <FeatureSectionFruits />
       <FeatureSectionBreakFast />
+      <Banner />
     </main>
   );
 };
